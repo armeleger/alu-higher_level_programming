@@ -11,4 +11,3 @@ def new_in_list(my_list, idx, element):
         copy_two = my_list[:]
         copy_two[idx] = element
         return copy_two
-
